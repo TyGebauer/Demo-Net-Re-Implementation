@@ -1,0 +1,15 @@
+{
+  "nodes": 4039,
+  "edges": 88234,
+  "x_dim": 1046,
+  "n_classes": 4,
+  "cuts": [
+    11,
+    25,
+    57
+  ],
+  "deg_cap": null,
+  "val_ratio": 0.1,
+  "test_ratio": 0.1,
+  "seed": 0
+}
